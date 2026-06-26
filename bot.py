@@ -14,7 +14,7 @@ from aiogram.types import BufferedInputFile, LabeledPrice, PreCheckoutQuery
 from bs4 import BeautifulSoup
 from openpyxl import Workbook
 
-TOKEN = os.getenv("BOT_TOKEN", "8874282024:AAFfeftxs2MDuRjEz2N6PXiR21LpYwN6M5c")
+TOKEN = os.getenv("BOT_TOKEN", "8996823340:AAFO2xjFwibFp7hKbaExj_sFet8sE0QBWhA")
 FREE_DAYS = 3
 PRICE = "300⭐/мес"
 
